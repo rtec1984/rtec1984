@@ -19,3 +19,7 @@
   <a href="https://www.instagram.com/joelrochab/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joel-rocha-barbosa/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+---
+
+**P.S.:** Quer saber um truque ninja? 🥷 Use `Ctrl + clique` (ou `Cmd + clique` se você for da galera do Mac 🍏) para abrir os links em uma nova aba e explorar sem perder de vista o meu perfil! 🌟😉
