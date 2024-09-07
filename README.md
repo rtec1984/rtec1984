@@ -1,4 +1,4 @@
-## welcome to joão's profile!
+## welcome to Joel's profile!
 
 ### hey there! I'm a Brazilian Software and Web Developer!  📖
 <div>
