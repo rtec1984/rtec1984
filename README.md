@@ -1,6 +1,6 @@
-## welcome to Joel's profile!
+## Welcome to Joel's profile!
 
-### hey there! I'm a Brazilian Software and Web Developer!  📖
+### Hey there! I'm a Brazilian Software and Web Developer!  📖
 <div>
   <a href="https://github.com/rtec1984">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rtec1984&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
